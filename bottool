@@ -1,0 +1,8 @@
+cd ~
+if [[ -d "/data/data/com.termux/files/home/bgmitool/BGMI_OBB" ]];then
+rm -rf /data/data/com.termux/files/home/bgmitool/BGMI_OBB
+else
+echo""
+fi
+cd /data/data/com.termux/files/home/bgmitool 
+bash setup 
