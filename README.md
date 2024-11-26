@@ -18,7 +18,6 @@ git clone https://github.com/CHEN-LITE/BGMI-TOOL.git
 5. Open CHEN-LITE_OBB directory and run setup.
 ```
 cd BGMI-TOOL
-chmod 775 setup
 bash setup
 ```
 6. Done.
